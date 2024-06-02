@@ -30,12 +30,17 @@ Repositório destinado ao Desafio de Carreira M02
 - Métodos de strings são maneiras de manipular texto em programação.
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
-
+- Quero aprender sobre método de elaboração de um currículo eficiente.
+- Quero aprender sobre a estrutura adequada para uma carta de apresentação.
+- Quero aprender sobre procrastinação e métodos de organizar melhor meu tempo.
 - Quero conhecer técnicas para avaliar, desenvolver e aprimorar minhas habilidades de gestão de tempo e aplicá-las em meu dia a dia.
 - Quero entender como criar um perfil no LinkedIn e como ele pode me ajudar a encontrar oportunidades de emprego.
 - Quero saber o que são métodos de arrays.
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
+- Aprendi que o currículo é o primeiro contato do recrutador com o candidato e que devido ao uso de inteligência artificial para avaliar e selecionar candidatos, estruturar um currículo corretamente é essencial para não perder oportunidades.
+- Aprendi sobre a aplicação correta de uma carta de apresentação e a estruturar o documento.
+- Aprendi técnicas de gestão do tempo, aprendi sobre procrastinação e  
 - Aprendi alguns métodos básicos de strings, como concatenar e dividir texto.
 - Aprendi alguns métodos básicos de arrays, como adicionar e remover itens de uma lista.
