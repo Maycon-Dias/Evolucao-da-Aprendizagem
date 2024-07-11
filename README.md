@@ -1,5 +1,5 @@
 # Evolucao_da_Aprendizagem
-Repositório destinado ao Desafio de Carreira M02
+Repositório destinado ao Desafio de Carreira M02 e M03
 
 ![](https://i.imgur.com/xG74tOh.png)
 
@@ -10,14 +10,26 @@ Repositório destinado ao Desafio de Carreira M02
  	- Carta de apresentação
 	- Gestão de tempo
 	- LinkedIn
-  
+ 	- GitHub
+  	- Comunicação
+	- Pesquisa e Leitura de Documentação
+ 	- Auto Conhecimento e Inteligência Emocional
+  	- Tendências da Tecnologia  
 
 - HARD SKILLS:
 	- Funções
 	- Tipos de dados II
  	- Tipos Utilitários
   	- Métodos de Strings
-	- Métodos de Arrays 
+	- Métodos de Arrays
+ 	- Testes Automatizados
+  	- Primeiro Servidor
+  	- Rotas, Intermediários e Controladores
+  	- API REST
+  	- Orientção a Objetos
+  	- API REST + POO
+  	- Assincrinismo, Leitura e Escrita em Arquivos
+  	- Prática com API com Assincronismo  
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
@@ -30,6 +42,13 @@ Repositório destinado ao Desafio de Carreira M02
 - Tipos utilitários são tipagens disponibilizadas em bibliotecas do Typescript para facilitar o desenvolvimento.
 - Métodos de strings são ferramentas para manipular e formatar strings dentro da programação.
 - Métodos de arrays são formas para manipular e trabalhar com arrays no desenvolvimento.
+- Conheço a operação básica e funcionalidades do GitHub;
+- Que a comunicação é uma ferramenta muito poderosa no processo de desenvolvimento, tanto profissional quanto pesoal.
+- O que são documentações e a importância de explorar os recursos e ferramentas que elas apresentam.
+- o que é Autoconhecimento e Inteligência Emocional.
+- Que a tecnologia avança rapidamente e é crucial se manter atualizado.
+- Que testes automatizados são desenvolvidos para ajudar e agilizar o desenvolvimento de softwares.
+- Que o back-end é a programação realizada no lado do servidor.
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 - Quero aprender sobre método de elaboração de um currículo eficiente.
@@ -41,6 +60,13 @@ Repositório destinado ao Desafio de Carreira M02
 - Quero aprender a identificar e interpretar tipos utilitários.
 - Quero aprender sobre os métodos para trabalhar strings e situações reais em que precise aplicar este conhecimento.
 - Quero aprender a utilizar métodos de arrays para aprimomar o desenvolvimento de códigos mais limpos e organizados.
+- Quero aprender a expor meus projetos de forma a gerar interesse de recrutadores.
+- Quero aprender técnicas de comunicação para aprimorar minhas habilidades.
+- Quero aprender como achar as documentações das linguagens e como achar os tópicos que procuro.
+- Quero aprender métodos para explorar essas ferramentas para promover meu crescimento pessoal e profissional.
+- Quero aprender mais sobre tecnologia a projeção de avanço para os próximos anos.
+- Quero aprender a implementar testes em meus projetos e utilizar testes em sistemas que eu encontrar.
+- Quero aprender a estruturar servidores e utilizar para criar aplicações robustas.
   
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
@@ -53,4 +79,11 @@ Repositório destinado ao Desafio de Carreira M02
 - Aprendi a utilizar tipagem estática, usar o Type para criar e aplicar tipos customizados.
 - Aprendi que o Typescript oferece uma biblioteca com vários tipos nativos, também foi mostrado onde encontrar este recurso e como interpretar tipos utilitários em código.
 - Aprendi Métodos básicos para manipular Strings como: Trim, ToUpperCase, ToLowerCase, Substring, Slice, Split, Replace, Pad, Includes e IndexOf. Inclusive, aplicar esses métodos em Typescript.
-- Aprendi o que são Métodos de Arrays, quando utilizá-los e fui apresentado aos métodos: Push, Pop, Shift, Unshift, IndexOf, Includes, Reverse, Join, Slice, Splice, Every, Some, Find, Filter, Map, etc.  
+- Aprendi o que são Métodos de Arrays, quando utilizá-los e fui apresentado aos métodos: Push, Pop, Shift, Unshift, IndexOf, Includes, Reverse, Join, Slice, Splice, Every, Some, Find, Filter, Map, etc.
+- Aprendi a importância de ter bem organizado, apresentando documentação eficiente dos projetos na plataforma, participar de projetos open source;
+- Aprendi sobre estilos de comunicação adequados para cada local (trabalho, casa e etc), também foi falado sobre comunicação escrita, não-violenta. Problemas que prejuducam a comunicação.
+- Aprendi a pesquisar em documentações, fomos apresentados a algumas e a melhor forma de utilizar esse material.
+- Aprendi técnicas para desenvolver o autoconhecimento, também foi falado sobre a importância da terapia no processo de autoconhecimento.
+- Aprendi que é importante praticar a lógica de programação e que nem sempre é necessário utilizar as ferramentas em sua última versão, pois as empresas tendem a manter versões anteriores devido ao custo da mudança.
+- Aprendi a importar módulos, importação e exportação de arquivos via require e ES Molules. Fomos apresentados ao Jest, Agrupamento de Testes, Configurações do Jest e configuração de testes.
+- Aprendi sobre o NodeJS, ExpressJS, Fastify, variáveis de ambiente e colocamos o primeiro servidor no ar.
